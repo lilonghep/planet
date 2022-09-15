@@ -5,3 +5,4 @@ The two moons may be a problem for Wolfman
  1 file changed, 1 insertion(+)
 Discuss concerns about Mars' climate for Mummy
 this line added to Wolfman's copy
+we added a different line in the other copy
